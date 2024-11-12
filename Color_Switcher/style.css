@@ -1,0 +1,38 @@
+.circle{
+
+    border: 1px solid black;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    color: pink;
+    padding: 2rem;
+    margin: auto;
+    margin-top: 1rem;
+}
+.con{
+    margin: auto;
+    text-align: center;   
+    padding: 2rem;
+
+}
+button{
+    width: 2rem;
+    height: 2rem;
+   
+}
+#yellow{
+    background-color: yellow;
+
+}
+#aliceblue{
+    background-color: aliceblue;
+}
+#orange{
+    background-color: rgb(253, 132, 10);
+}
+#pink{
+    background-color: pink;
+}
+#lightgreen{
+    background-color: rgb(135, 251, 135);
+}
